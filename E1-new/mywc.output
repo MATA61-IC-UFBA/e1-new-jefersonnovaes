@@ -1,0 +1,9 @@
+./mywc < tests/inputs/_reviewer-general-template.txt 
+      21      72     581 (null)
+
+./mywc < tests/inputs/_scholarship-transcript-draft.txt 
+      49   11256   61192 (null)
+
+wc mywc.l
+ 33  67 453 mywc.l
+
